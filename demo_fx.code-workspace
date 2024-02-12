@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "demo_fx"
+		},
+		{
+			"path": "demo"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
